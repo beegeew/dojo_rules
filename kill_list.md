@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * global variables
+* Passing objects by copying
