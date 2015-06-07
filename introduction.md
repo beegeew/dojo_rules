@@ -15,3 +15,4 @@ My Deadly skills are in
 *Linux
 *Shell scripting
 *Parallel (MPI/Cuda/OpenMP) etc!
+*Killing history using git rebase
